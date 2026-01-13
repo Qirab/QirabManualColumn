@@ -1,11 +1,10 @@
-# QirabDigitisationColumn - QDC100 & QDC150
+# QirabManualColumn - QMC100
 ## مقدمة ##
-حامل «قِرَاب» للرقمنة (QDC100) عبارة عن حامل كاميرا عمودية متحركة مفتوحة المصدر بارتفاع 100 سم مصمم خصيصًا للاستخدام أثناء تصوير المخطوطات والكتب الهشة.
+The Qirab™ Manual Column (QMC100) is an 100cm tall open-source manual vertical column camera support specifically designed for use while imaging manuscripts and fragile books. 
 
-The Qirab™ Digitisation Column (QDC100) is an 100cm tall open-source motorized vertical column camera support specifically designed for use while imaging manuscripts and fragile books. 
+![QMC100 v1.0 CAD](https://github.com/Qirab/QirabDigitisationColumn/blob/main/QDC100v1.2.png?raw=true)
 
-![QDC100 v1.2 CAD](https://github.com/Qirab/QirabDigitisationColumn/blob/main/QDC100v1.2.png?raw=true)
-
+It is derived from the QDC100 with come parts commonality.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
