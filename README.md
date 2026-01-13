@@ -4,7 +4,7 @@ The Qirab™ Manual Column (QMC100) is an 100cm tall open-source manual vertical
 
 ![QMC100 v1.0 CAD](https://github.com/Qirab/QirabDigitisationColumn/blob/main/QDC100v1.2.png?raw=true)
 
-It is derived from the QDC100 with come parts commonality.
+It is derived from the <a href="https://github.com/Qirab/QirabDigitisationColumn">QDC100</a> with come parts commonality.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
