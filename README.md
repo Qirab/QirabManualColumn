@@ -1,5 +1,7 @@
 # QirabManualColumn - QMC100
-## مقدمة ##
+
+حامل «قِرَاب» اليدوي (QMC100) عبارة عن حامل كاميرا عمودية يدوية مفتوحة المصدر بارتفاع 100 سم مصمم خصيصًا للاستخدام أثناء تصوير المخطوطات والكتب الهشة.
+
 The Qirab™ Manual Column (QMC100) is an 100cm tall open-source manual vertical column camera support specifically designed for use while imaging manuscripts and fragile books. 
 
 ![QMC100 v1.0.0 CAD](https://github.com/Qirab/QirabManualColumn/blob/main/QMCv1.0.0.png?raw=true)
