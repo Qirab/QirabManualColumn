@@ -2,7 +2,7 @@
 ## مقدمة ##
 The Qirab™ Manual Column (QMC100) is an 100cm tall open-source manual vertical column camera support specifically designed for use while imaging manuscripts and fragile books. 
 
-![QMC100 v1.0 CAD](https://github.com/Qirab/QirabDigitisationColumn/blob/main/QDC100v1.2.png?raw=true)
+![QMC100 v1.0.0 CAD](https://github.com/Qirab/QirabManualColumn/blob/main/QMCv1.0.0.png?raw=true)
 
 It is derived from the <a href="https://github.com/Qirab/QirabDigitisationColumn">QDC100</a> with come parts commonality.
 
